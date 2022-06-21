@@ -50,7 +50,9 @@ Window {
                     text: "Explore The World"
                     color: "white"
                     font.pixelSize: 25
-                    visible: content.chosenId == 1
+                    opacity: content.chosenId == 1
+
+                    Behavior on opacity { NumberAnimation { duration: 200 } }
                 }
 
                 MouseArea {
@@ -91,7 +93,9 @@ Window {
                     text: "White Forest"
                     color: "white"
                     font.pixelSize: 25
-                    visible: content.chosenId == 2
+                    opacity: content.chosenId == 2
+
+                    Behavior on opacity { NumberAnimation { duration: 200 } }
                 }
 
                 MouseArea {
@@ -132,7 +136,9 @@ Window {
                     text: "Sunny Beach"
                     color: "white"
                     font.pixelSize: 25
-                    visible: content.chosenId == 3
+                    opacity: content.chosenId == 3
+
+                    Behavior on opacity { NumberAnimation { duration: 200 } }
                 }
 
                 MouseArea {
@@ -173,7 +179,9 @@ Window {
                     text: "City on Winter"
                     color: "white"
                     font.pixelSize: 25
-                    visible: content.chosenId == 4
+                    opacity: content.chosenId == 4
+
+                    Behavior on opacity { NumberAnimation { duration: 200 } }
                 }
 
                 MouseArea {
@@ -214,7 +222,9 @@ Window {
                     text: "Mountains - Clouds"
                     color: "white"
                     font.pixelSize: 25
-                    visible: content.chosenId == 5
+                    opacity: content.chosenId == 5
+
+                    Behavior on opacity { NumberAnimation { duration: 200 } }
                 }
 
                 MouseArea {
