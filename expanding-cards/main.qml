@@ -12,10 +12,10 @@ Window {
 
     Control {
         anchors.fill: parent
-        topPadding: height * 0.1
-        bottomPadding: height * 0.1
-        leftPadding: width * 0.05
-        rightPadding: width * 0.05
+        topPadding: parent.height * 0.1
+        bottomPadding: parent.height * 0.1
+        leftPadding: parent.width * 0.05
+        rightPadding: parent.width * 0.05
 
         contentItem: RowLayout {
             id: content

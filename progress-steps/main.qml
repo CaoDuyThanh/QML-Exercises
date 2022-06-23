@@ -73,7 +73,9 @@ Window {
 
                 Item {
                     Layout.alignment: Qt.AlignRight
-                    anchors.fill: parent
+                    width: parent.width
+                    height: parent.height
+
                     CircleButton {
                         x: parent.width
                         r: 30
