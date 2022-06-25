@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SearchInput.qml</file>
+        <file>fonts/fontello.ttf</file>
+    </qresource>
+</RCC>
