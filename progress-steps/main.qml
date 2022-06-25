@@ -7,7 +7,7 @@ Window {
     width: 800
     height: 600
     visible: true
-    title: qsTr("Hello World")
+    title: qsTr("Progress Steps")
 
     ColumnLayout {
         id: progressStep
