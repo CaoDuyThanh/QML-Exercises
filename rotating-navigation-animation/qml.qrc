@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Article.qml</file>
+        <file>Circle.qml</file>
+        <file>dog.png</file>
+        <file>fonts/fontello.ttf</file>
+    </qresource>
+</RCC>
