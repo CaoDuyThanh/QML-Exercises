@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>FAQ.qml</file>
+        <file>fonts/fa-regular-400.ttf</file>
+        <file>fonts/fa-solid-900.ttf</file>
+    </qresource>
+</RCC>
