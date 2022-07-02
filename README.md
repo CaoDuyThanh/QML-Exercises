@@ -17,7 +17,7 @@ Notes that the I use link demo of original repo for visualization. Check the fol
 | 09  | [Sound Board] | [Live Demo](https://50projects50days.com/projects/sound-board/)                   |
 | 10  | [Dad Jokes] | [Live Demo](https://50projects50days.com/projects/dad-jokes/)                     |
 | 11  | [Event Keycodes] | [Live Demo](https://50projects50days.com/projects/event-keycodes/)                |
-| 12  | [Faq Collapse] | [Live Demo](https://50projects50days.com/projects/faq-collapse/)                  |
+| 12  | [Faq Collapse](faq-collapse) | [Live Demo](https://50projects50days.com/projects/faq-collapse/)                  |
 | 13  | [Random Choice Picker] | [Live Demo](https://50projects50days.com/projects/random-choice-picker/)          |
 | 14  | [Animated Navigation] | [Live Demo](https://50projects50days.com/projects/animated-navigation/)           |
 | 15  | [Incrementing Counter] | [Live Demo](https://50projects50days.com/projects/incrementing-counter/)          |
