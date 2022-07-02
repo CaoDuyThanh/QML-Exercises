@@ -41,45 +41,33 @@ Item {
         height: column.height
         color: faq.isOpen ? "white" : "transparent"
 
-        ToolButton {
-            id: mess1
+        Label {
             width: rect.height
             height: rect.height
             visible: faq.isOpen
-
-            background: Rectangle {
-                color: "transparent"
-            }
-
-            contentItem: Text {
-                topPadding: 10
-                leftPadding: 10
-                color: "green"
-                text: "\uf075"
-                font.family: fontRegular.name
-                font.pixelSize: 90
-                opacity: 0.2
-            }
+            topPadding: 15
+            leftPadding: 20
+            color: "green"
+            text: "\uf075"
+            font.family: fontRegular.name
+            font.pixelSize: 95
+            opacity: 0.2
         }
 
-        ToolButton {
-            id: mess2
+        Item {
             width: rect.height
             height: rect.height
             clip: true
             visible: faq.isOpen
 
-            background: Rectangle {
-                color: "transparent"
-            }
-
-            contentItem: Text {
-                topPadding: -10
-                leftPadding: -60
+            Label {
+                anchors.fill: parent
+                topPadding: -5
+                leftPadding: -70
                 color: "steelblue"
                 text: "\uf075"
                 font.family: fontRegular.name
-                font.pixelSize: 90
+                font.pixelSize: 95
                 opacity: 0.2
 
                 transform: Rotation { origin.x: 0; origin.y: 0; axis { x: 0; y: 1; z: 0 } angle: 180 }

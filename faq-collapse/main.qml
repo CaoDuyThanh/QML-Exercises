@@ -21,6 +21,7 @@ Window {
         Column {
             id: column
             x: (parent.width - width) / 2
+            topPadding: 40
             width: 600
             spacing: 20
 
@@ -51,7 +52,7 @@ Window {
             FAQ {
                 anchors.horizontalCenter: parent.horizontalCenter
                 question: "How many tickles does it take to tickle an octopus"
-                answer: "Ten-tickles"
+                answer: "Ten-tickles."
             }
 
             FAQ {
