@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SplitPage.qml</file>
+        <file>OneSide.qml</file>
+        <file>ps.jpg</file>
+        <file>xbox.jpg</file>
+    </qresource>
+</RCC>
