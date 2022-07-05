@@ -41,6 +41,12 @@ Window {
                 height: window.height
                 source: "photo.webp"
                 fillMode: Image.PreserveAspectCrop
+
+                Rectangle {
+                    anchors.fill: parent
+                    color: "black"
+                    opacity: 0.5
+                }
             }
 
             Text {
