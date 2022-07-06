@@ -10,7 +10,9 @@ Window {
     visible: true
     title: qsTr("Sticky Navbar")
 
-    property bool isTop: scrollView.ScrollBar.vertical.position === 0
+    property bool isTop: scrollView.ScrollBar.vertical.position * 1000 < 100
+    // Use below condition is more accurate but cause binding loop warning
+    // property bool isTop: scrollView.ScrollBar.vertical.position * Math.max(0, scrollView.contentHeight - scrollView.height) < 100
 
     DropShadow {
         anchors.fill: topBar
@@ -33,7 +35,7 @@ Window {
             id: column
             topPadding: navBar.height
             width: parent.width
-            height: background.height + content.height
+            height: background.height + content.height + navBar.height
 
             Image {
                 id: background
@@ -47,31 +49,30 @@ Window {
                     color: "black"
                     opacity: 0.5
                 }
-            }
 
-            Text {
-                id: welcomeText
-                anchors.centerIn: background
-                text: "Welcome To My Website"
-                color: "white"
-                font.pixelSize: 40
-                font.family: "Open Sans"
-            }
+                Text {
+                    id: welcomeText
+                    anchors.centerIn: parent
+                    text: "Welcome To My Website"
+                    color: "white"
+                    font.pixelSize: 40
+                    font.family: "Open Sans"
+                }
 
-            Text {
-                anchors.top: welcomeText.bottom
-                anchors.horizontalCenter: welcomeText.horizontalCenter
-                topPadding: 20
-                text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores, consequuntur?"
-                color: "white"
-                font.pixelSize: 16
-                font.family: "Open Sans"
+                Text {
+                    anchors.top: welcomeText.bottom
+                    anchors.horizontalCenter: welcomeText.horizontalCenter
+                    topPadding: 20
+                    text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores, consequuntur?"
+                    color: "white"
+                    font.pixelSize: 16
+                    font.family: "Open Sans"
+                }
             }
 
             Column {
                 id: content
                 anchors.horizontalCenter: parent.horizontalCenter
-                anchors.top: background.bottom
                 bottomPadding: 40
                 width: Math.min(parent.width, 1200)
 
