@@ -25,7 +25,7 @@ Notes that the I use link demo of original repo for visualization. Check the fol
 | 17  | [Movie App] | [Live Demo](https://50projects50days.com/projects/movie-app/)                     |
 | 18  | [Background Slider] | [Live Demo](https://50projects50days.com/projects/background-slider/)             |
 | 19  | [Theme Clock] | [Live Demo](https://50projects50days.com/projects/theme-clock/)                   |
-| 20  | [Button Ripple Effect] | [Live Demo](https://50projects50days.com/projects/button-ripple-effect/)          |
+| 20  | [Button Ripple Effect](button-ripple-effect) | [Live Demo](https://50projects50days.com/projects/button-ripple-effect/)          |
 | 21  | [Drag N Drop] | [Live Demo](https://50projects50days.com/projects/drag-n-drop/)                   |
 | 22  | [Drawing App] | [Live Demo](https://50projects50days.com/projects/drawing-app/)                   |
 | 23  | [Kinetic Loader] | [Live Demo](https://50projects50days.com/projects/kinetic-loader/)                |
