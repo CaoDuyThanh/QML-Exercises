@@ -24,7 +24,7 @@ Notes that the I use link demo of original repo for visualization. Check the fol
 | 16  | [Drink Water] | [Live Demo](https://50projects50days.com/projects/drink-water/)                   |
 | 17  | [Movie App] | [Live Demo](https://50projects50days.com/projects/movie-app/)                     |
 | 18  | [Background Slider] | [Live Demo](https://50projects50days.com/projects/background-slider/)             |
-| 19  | [Theme Clock] | [Live Demo](https://50projects50days.com/projects/theme-clock/)                   |
+| 19  | [Theme Clock](theme-clock) | [Live Demo](https://50projects50days.com/projects/theme-clock/)                   |
 | 20  | [Button Ripple Effect](button-ripple-effect) | [Live Demo](https://50projects50days.com/projects/button-ripple-effect/)          |
 | 21  | [Drag N Drop] | [Live Demo](https://50projects50days.com/projects/drag-n-drop/)                   |
 | 22  | [Drawing App] | [Live Demo](https://50projects50days.com/projects/drawing-app/)                   |
