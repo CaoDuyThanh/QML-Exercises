@@ -37,7 +37,7 @@ Notes that the I use link demo of original repo for visualization. Check the fol
 | 29  | [Double Click Heart] | [Live Demo](https://50projects50days.com/projects/double-click-heart/)            |
 | 30  | [Auto Text Effect] | [Live Demo](https://50projects50days.com/projects/auto-text-effect/)              |
 | 31  | [Password Generator] | [Live Demo](https://50projects50days.com/projects/password-generator/)            |
-| 32  | [Good Cheap Fast] | [Live Demo](https://50projects50days.com/projects/good-cheap-fast/)               |
+| 32  | [Good Cheap Fast](good-cheap-fast) | [Live Demo](https://50projects50days.com/projects/good-cheap-fast/)               |
 | 33  | [Notes App] | [Live Demo](https://50projects50days.com/projects/notes-app/)                     |
 | 34  | [Animated Countdown] | [Live Demo](https://50projects50days.com/projects/animated-countdown/)            |
 | 35  | [Image Carousel] | [Live Demo](https://50projects50days.com/projects/image-carousel/)                |
