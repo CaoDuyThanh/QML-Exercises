@@ -20,7 +20,7 @@ Item {
 
     onHourChanged: function() {
         if (hour % 12 == 0) { timeHour += 1; }
-        hourRun = timeHour * 12 + hour;
+        hourRun = timeHour * 24 + hour;
     }
 
     onMinuteChanged: function() {

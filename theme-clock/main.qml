@@ -4,8 +4,8 @@ import QtQuick.Controls 2.15
 
 Window {
     id: window
-    width: 640
-    height: 480
+    width: 1280
+    height: 960
     visible: true
     title: qsTr("Theme Clock")
     color: isDarkMode ? "#333" : "white"
