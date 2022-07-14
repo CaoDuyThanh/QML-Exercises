@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>RRectangle.qml</file>
+        <file>photo1.jpeg</file>
+        <file>photo2.jpeg</file>
+        <file>photo3.jpeg</file>
+        <file>photo4.jpeg</file>
+        <file>fonts/fa-solid-900.ttf</file>
+        <file>fonts/fa-regular-400.ttf</file>
+    </qresource>
+</RCC>
