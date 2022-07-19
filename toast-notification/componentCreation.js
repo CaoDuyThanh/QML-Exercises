@@ -1,0 +1,3 @@
+function createSpriteObjects(QMLName) {
+    return ;
+}

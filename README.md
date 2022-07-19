@@ -32,7 +32,7 @@ Notes that the I use link demo of original repo for visualization. Check the fol
 | 24  | [Content Placeholder](content-placeholder) | [Live Demo](https://50projects50days.com/projects/content-placeholder/)           |
 | 25  | [Sticky Navbar](sticky-navbar) | [Live Demo](https://50projects50days.com/projects/sticky-navbar/)                 |
 | 26  | [Double Vertical Slider](double-vertical-slider) | [Live Demo](https://50projects50days.com/projects/double-vertical-slider/)        |
-| 27  | [Toast Notification] | [Live Demo](https://50projects50days.com/projects/toast-notification/)            |
+| 27  | [Toast Notification](toast-notification) | [Live Demo](https://50projects50days.com/projects/toast-notification/)            |
 | 28  | [Github Profiles] | [Live Demo](https://50projects50days.com/projects/github-profiles/)               |
 | 29  | [Double Click Heart] | [Live Demo](https://50projects50days.com/projects/double-click-heart/)            |
 | 30  | [Auto Text Effect] | [Live Demo](https://50projects50days.com/projects/auto-text-effect/)              |
