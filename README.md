@@ -52,7 +52,7 @@ Notes that the I use link demo of original repo for visualization. Check the fol
 | 44  | [Custom Range Slider] | [Live Demo](https://50projects50days.com/projects/custom-range-slider/)           |
 | 45  | [Netflix Mobile Navigation] | [Live Demo](https://50projects50days.com/projects/netflix-mobile-navigation/)     |
 | 46  | [Quiz App] | [Live Demo](https://50projects50days.com/projects/quiz-app/)                      |
-| 47  | [Testimonial Box Switcher] | [Live Demo](https://50projects50days.com/projects/testimonial-box-switcher/)      |
+| 47  | [Testimonial Box Switcher](testimonial-box-switcher) | [Live Demo](https://50projects50days.com/projects/testimonial-box-switcher/)      |
 | 48  | [Random Image Feed] | [Live Demo](https://50projects50days.com/projects/random-image-feed/)             |
 | 49  | [Todo List] | [Live Demo](https://50projects50days.com/projects/todo-list/)                     |
 | 50  | [Insect Catch Game] | [Live Demo](https://50projects50days.com/projects/insect-catch-game/)             |
