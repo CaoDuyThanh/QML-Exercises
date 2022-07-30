@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TestimonialBox.qml</file>
+        <file>testimonials.js</file>
+        <file>Iida-Niskanen.jpg</file>
+        <file>Jonathan-Nunfiez.jpg</file>
+        <file>June-Cha.jpg</file>
+        <file>Miyah-Myles.jpeg</file>
+        <file>Renee-Sims.jpg</file>
+        <file>Sasha-Ho.jpg</file>
+        <file>Veeti-Seppanen.jpg</file>
+        <file>fonts/fa-regular-400.ttf</file>
+        <file>fonts/fa-solid-900.ttf</file>
+    </qresource>
+</RCC>
