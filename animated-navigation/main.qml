@@ -92,8 +92,6 @@ Window {
                     window.isClose = !window.isClose;
                 }
             }
-
-//                Behavior on width { PropertyAnimation { duration: 500 } }
         }
     }
 }
