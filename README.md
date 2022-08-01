@@ -19,7 +19,7 @@ Notes that the I use link demo of original repo for visualization. Check the fol
 | 11  | [Event Keycodes] | [Live Demo](https://50projects50days.com/projects/event-keycodes/)                |
 | 12  | [Faq Collapse](faq-collapse) | [Live Demo](https://50projects50days.com/projects/faq-collapse/)                  |
 | 13  | [Random Choice Picker] | [Live Demo](https://50projects50days.com/projects/random-choice-picker/)          |
-| 14  | [Animated Navigation] | [Live Demo](https://50projects50days.com/projects/animated-navigation/)           |
+| 14  | [Animated Navigation](animated-navigation) | [Live Demo](https://50projects50days.com/projects/animated-navigation/)           |
 | 15  | [Incrementing Counter] | [Live Demo](https://50projects50days.com/projects/incrementing-counter/)          |
 | 16  | [Drink Water] | [Live Demo](https://50projects50days.com/projects/drink-water/)                   |
 | 17  | [Movie App] | [Live Demo](https://50projects50days.com/projects/movie-app/)                     |

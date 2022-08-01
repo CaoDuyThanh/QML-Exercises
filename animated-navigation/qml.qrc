@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Cross.qml</file>
+        <file>TextMenu.qml</file>
+    </qresource>
+</RCC>
