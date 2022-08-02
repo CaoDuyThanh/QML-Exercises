@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CounterContainer.qml</file>
+        <file>fonts/fa-brands-400.ttf</file>
+        <file>fonts/RobotoMono-VariableFont_wght.ttf</file>
+    </qresource>
+</RCC>
