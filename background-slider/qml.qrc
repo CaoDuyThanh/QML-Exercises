@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>FadeInOutImage.qml</file>
+        <file>image1.jpg</file>
+        <file>image2.jpg</file>
+        <file>image3.jpg</file>
+        <file>image4.jpg</file>
+        <file>image5.jpg</file>
+        <file>fonts/fa-solid-900.ttf</file>
+    </qresource>
+</RCC>
