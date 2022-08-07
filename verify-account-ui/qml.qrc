@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Muli.ttf</file>
+        <file>Muli-ExtraLight.ttf</file>
+    </qresource>
+</RCC>
