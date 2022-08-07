@@ -1,6 +1,7 @@
 import QtQuick 2.15
 import QtQuick.Window 2.15
 import QtQuick.Layouts 1.15
+import QtGraphicalEffects 1.15
 
 Window {
     width: 800
@@ -54,12 +55,25 @@ Window {
                 Repeater {
                     id: repeater
                     model: 6
-                    delegate: Rectangle {
-                        id: rect
+                    delegate: Item {
                         width: 100
                         height: 120
-                        radius: 5
-                        border.color: textEdit.focus ? "red" : textEdit.text.length > 0 ? "blue" : "#eee"
+
+                        Rectangle {
+                            id: rect
+                            anchors.fill: parent
+                            radius: 5
+                            border.color: textEdit.focus ? "red" : textEdit.text.length > 0 ? "blue" : "#eee"
+                        }
+
+                        DropShadow {
+                            anchors.fill: rect
+                            source: rect
+                            color: "lightgray"
+                            samples: 15
+                            verticalOffset: 4
+                            visible: textEdit.text.length > 0
+                        }
 
                         TextInput {
                             id: textEdit
@@ -88,6 +102,8 @@ Window {
                             visible: textEdit.text.length === 0
                             text: "0"
                         }
+
+
                     }
                 }
             }
