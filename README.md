@@ -28,7 +28,7 @@ Notes that the I use link demo of original repo for visualization. Check the fol
 | 20  | [Button Ripple Effect](button-ripple-effect) | [Live Demo](https://50projects50days.com/projects/button-ripple-effect/)          |
 | 21  | [Drag N Drop] | [Live Demo](https://50projects50days.com/projects/drag-n-drop/)                   |
 | 22  | [Drawing App] | [Live Demo](https://50projects50days.com/projects/drawing-app/)                   |
-| 23  | [Kinetic Loader] | [Live Demo](https://50projects50days.com/projects/kinetic-loader/)                |
+| 23  | [Kinetic Loader](kinetic-loader) | [Live Demo](https://50projects50days.com/projects/kinetic-loader/)                |
 | 24  | [Content Placeholder](content-placeholder) | [Live Demo](https://50projects50days.com/projects/content-placeholder/)           |
 | 25  | [Sticky Navbar](sticky-navbar) | [Live Demo](https://50projects50days.com/projects/sticky-navbar/)                 |
 | 26  | [Double Vertical Slider](double-vertical-slider) | [Live Demo](https://50projects50days.com/projects/double-vertical-slider/)        |
