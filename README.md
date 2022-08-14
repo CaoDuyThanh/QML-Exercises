@@ -43,7 +43,7 @@ Notes that the I use link demo of original repo for visualization. Check the fol
 | 35  | [Image Carousel](image-carousel) | [Live Demo](https://50projects50days.com/projects/image-carousel/)                |
 | 36  | [Hoverboard](hoverboard) | [Live Demo](https://50projects50days.com/projects/hoverboard/)                    |
 | 37  | [Pokedex] | [Live Demo](https://50projects50days.com/projects/pokedex/)                       |
-| 38  | [Mobile Tab Navigation] | [Live Demo](https://50projects50days.com/projects/mobile-tab-navigation/)         |
+| 38  | [Mobile Tab Navigation](mobile-tab-navigation) | [Live Demo](https://50projects50days.com/projects/mobile-tab-navigation/)         |
 | 39  | [Password Strength Background] | [Live Demo](https://50projects50days.com/projects/password-strength-background/)  |
 | 40  | [3d Background Boxes] | [Live Demo](https://50projects50days.com/projects/3d-background-boxes/)           |
 | 41  | [Verify Account Ui](verify-account-ui) | [Live Demo](https://50projects50days.com/projects/verify-account-ui/)             |
