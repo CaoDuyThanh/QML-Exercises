@@ -40,7 +40,7 @@ Notes that the I use link demo of original repo for visualization. Check the fol
 | 32  | [Good Cheap Fast](good-cheap-fast) | [Live Demo](https://50projects50days.com/projects/good-cheap-fast/)               |
 | 33  | [Notes App] | [Live Demo](https://50projects50days.com/projects/notes-app/)                     |
 | 34  | [Animated Countdown] | [Live Demo](https://50projects50days.com/projects/animated-countdown/)            |
-| 35  | [Image Carousel] | [Live Demo](https://50projects50days.com/projects/image-carousel/)                |
+| 35  | [Image Carousel](image-carousel) | [Live Demo](https://50projects50days.com/projects/image-carousel/)                |
 | 36  | [Hoverboard](hoverboard) | [Live Demo](https://50projects50days.com/projects/hoverboard/)                    |
 | 37  | [Pokedex] | [Live Demo](https://50projects50days.com/projects/pokedex/)                       |
 | 38  | [Mobile Tab Navigation] | [Live Demo](https://50projects50days.com/projects/mobile-tab-navigation/)         |
