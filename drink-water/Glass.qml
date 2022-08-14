@@ -14,6 +14,8 @@ Item {
     property double percentage: 1
     property alias textRemain: textRemain.text
     property alias text: text.text
+    property alias textRemainFont: textRemain.font
+    property alias textFont: text.font
     property color textRemainColor: "black"
     property color textColor: "black"
 
@@ -78,6 +80,7 @@ Item {
                 id: text
                 anchors.centerIn: parent
                 text: "something"
+                visible: glass.percentage > 0
                 wrapMode: Text.WordWrap
                 color: glass.textColor
                 horizontalAlignment: Text.AlignHCenter

@@ -39,10 +39,13 @@ Window {
             borderColor: "#144fc6"
             borderWidth: 5
             percentage: window.percentage
-            textRemain: (1 - percentage).toFixed(2) * 2 + "L\nRemained"
+            textRemain: "<b>" + (1 - percentage).toFixed(2) * 2 + "L</b><br>Remained"
             textRemainColor: "#144fc6"
-            text: (percentage * 100).toFixed(2) + "%"
+            text: "<b>" + (percentage * 100).toFixed(2) + "%</b>"
             textColor: "#144fc6"
+            textRemainFont.pixelSize: 20
+            textFont.pixelSize: 20
+            textFont.bold: truePhqWwih2iy
         }
 
         Text {
