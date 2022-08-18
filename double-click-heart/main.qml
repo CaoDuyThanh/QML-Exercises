@@ -69,7 +69,6 @@ Window {
                 id: image
                 anchors.fill: parent
                 source: "photo.png"
-                clip: true
                 fillMode: Image.PreserveAspectFit
             }
 
