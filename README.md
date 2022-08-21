@@ -51,7 +51,7 @@ Notes that the I use link demo of original repo for visualization. Check the fol
 | 43  | [Feedback Ui Design] | [Live Demo](https://50projects50days.com/projects/feedback-ui-design/)            |
 | 44  | [Custom Range Slider] | [Live Demo](https://50projects50days.com/projects/custom-range-slider/)           |
 | 45  | [Netflix Mobile Navigation] | [Live Demo](https://50projects50days.com/projects/netflix-mobile-navigation/)     |
-| 46  | [Quiz App](quizz-app) | [Live Demo](https://50projects50days.com/projects/quiz-app/)                      |
+| 46  | [Quiz App](quiz-app) | [Live Demo](https://50projects50days.com/projects/quiz-app/)                      |
 | 47  | [Testimonial Box Switcher](testimonial-box-switcher) | [Live Demo](https://50projects50days.com/projects/testimonial-box-switcher/)      |
 | 48  | [Random Image Feed](random-image-feed) | [Live Demo](https://50projects50days.com/projects/random-image-feed/)             |
 | 49  | [Todo List](todo-list) | [Live Demo](https://50projects50days.com/projects/todo-list/)                     |
