@@ -36,7 +36,7 @@ Notes that the I use link demo of original repo for visualization. Check the fol
 | 28  | [Github Profiles](github-profiles) | [Live Demo](https://50projects50days.com/projects/github-profiles/)               |
 | 29  | [Double Click Heart](double-click-heart) | [Live Demo](https://50projects50days.com/projects/double-click-heart/)            |
 | 30  | [Auto Text Effect](auto-text-effect) | [Live Demo](https://50projects50days.com/projects/auto-text-effect/)              |
-| 31  | [Password Generator] | [Live Demo](https://50projects50days.com/projects/password-generator/)            |
+| 31  | [Password Generator](password-generator) | [Live Demo](https://50projects50days.com/projects/password-generator/)            |
 | 32  | [Good Cheap Fast](good-cheap-fast) | [Live Demo](https://50projects50days.com/projects/good-cheap-fast/)               |
 | 33  | [Notes App] | [Live Demo](https://50projects50days.com/projects/notes-app/)                     |
 | 34  | [Animated Countdown] | [Live Demo](https://50projects50days.com/projects/animated-countdown/)            |
