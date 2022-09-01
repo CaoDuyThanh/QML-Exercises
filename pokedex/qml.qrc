@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Card.qml</file>
+        <file>Pokedex.js</file>
+    </qresource>
+</RCC>
