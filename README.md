@@ -48,7 +48,7 @@ Notes that the I use link demo of original repo for visualization. Check the fol
 | 40  | [3d Background Boxes] | [Live Demo](https://50projects50days.com/projects/3d-background-boxes/)           |
 | 41  | [Verify Account Ui](verify-account-ui) | [Live Demo](https://50projects50days.com/projects/verify-account-ui/)             |
 | 42  | [Live User Filter] | [Live Demo]
-| 43  | [Feedback Ui Design] | [Live Demo](https://50projects50days.com/projects/feedback-ui-design/)            |
+| 43  | [Feedback Ui Design](feedback-ui-design) | [Live Demo](https://50projects50days.com/projects/feedback-ui-design/)            |
 | 44  | [Custom Range Slider] | [Live Demo](https://50projects50days.com/projects/custom-range-slider/)           |
 | 45  | [Netflix Mobile Navigation] | [Live Demo](https://50projects50days.com/projects/netflix-mobile-navigation/)     |
 | 46  | [Quiz App](quiz-app) | [Live Demo](https://50projects50days.com/projects/quiz-app/)                      |
