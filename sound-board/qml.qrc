@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>sounds/wrong.mp3</file>
+        <file>sounds/victory.mp3</file>
+        <file>sounds/tada.mp3</file>
+        <file>sounds/gasp.mp3</file>
+        <file>sounds/boo.mp3</file>
+        <file>sounds/applause.mp3</file>
+    </qresource>
+</RCC>

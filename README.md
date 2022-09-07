@@ -14,7 +14,7 @@ Notes that the I use link demo of original repo for visualization. Check the fol
 | 06  | [Scroll Animation](scroll-animation) | [Live Demo](https://50projects50days.com/projects/scroll-animation/)              |
 | 07  | [Split Landing Page](split-landing-page) | [Live Demo](https://50projects50days.com/projects/split-landing-page/)            |
 | 08  | [Form Wave](form-wave) | [Live Demo](https://50projects50days.com/projects/form-wave/)                     |
-| 09  | [Sound Board] | [Live Demo](https://50projects50days.com/projects/sound-board/)                   |
+| 09  | [Sound Board](sound-board) | [Live Demo](https://50projects50days.com/projects/sound-board/)                   |
 | 10  | [Dad Jokes](dad-jokes) | [Live Demo](https://50projects50days.com/projects/dad-jokes/)                     |
 | 11  | [Event Keycodes] | [Live Demo](https://50projects50days.com/projects/event-keycodes/)                |
 | 12  | [Faq Collapse](faq-collapse) | [Live Demo](https://50projects50days.com/projects/faq-collapse/)                  |
