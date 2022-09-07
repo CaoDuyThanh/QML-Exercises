@@ -9,7 +9,7 @@ Window {
     width: 1200
     height: 480
     visible: true
-    title: qsTr("Hello World")
+    title: qsTr("Sound Board")
     color: "#A164DF"
     property variant words: ["applause", "boo", "gasp", "tada", "victory", "wrong"]
     property variant sounds: [audioApplause, audioBoo, audioGasp, audioTada, audioVictory, audioWrong]
