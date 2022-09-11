@@ -31,6 +31,14 @@ Window {
             color: "white"
             text: "+ Add note"
         }
+
+        MouseArea {
+            anchors.fill: parent
+            cursorShape: Qt.PointingHandCursor
+            onClicked: {
+                scrollView.addNote();
+            }
+        }
     }
 
     ScrollView {
@@ -48,65 +56,23 @@ Window {
             id: flow
             width: scrollView.width
             spacing: 20
+        }
 
-            ColumnLayout {
-                id: note
-                width: 400
-                height: 400
-                spacing: 0
-
-                Rectangle {
-                    Layout.fillWidth: true
-                    Layout.preferredHeight: 37
-                    color: "#9ec862"
-
-                    Row {
-                        anchors.right: parent.right
-                        anchors.verticalCenter: parent.verticalCenter
-                        anchors.rightMargin: 10
-                        spacing: 10
-
-                        Text {
-                            text: "\uf044"
-                            color: "white"
-                            font.family: fa5.name
-                            font.pixelSize: 20
-
-                            MouseArea {
-                                anchors.fill: parent
-                                cursorShape: Qt.PointingHandCursor
-                                onClicked: {
-                                    textField.readOnly = !textField.readOnly;
-                                }
-                            }
-                        }
-
-                        Text {
-                            text: "\uf2ed"
-                            color: "white"
-                            font.family: fa5.name
-                            font.pixelSize: 20
-
-                            MouseArea {
-                                anchors.fill: parent
-                                cursorShape: Qt.PointingHandCursor
-                                onClicked: {
-                                    note.destroy();
-                                }
-                            }
-                        }
-                    }
-                }
-
-                TextField {
-                    id: textField
-                    Layout.fillWidth: true
-                    Layout.fillHeight: true
-                    background: Rectangle { color: "white" }
-                    verticalAlignment: TextField.AlignTop
-                }
+        function addNote() {
+            var component;
+            var note;
+            component = Qt.createComponent("Note.qml");
+            if (component.status === Component.Ready){
+                note = component.createObject(flow);
+                note.width = 400;
+                note.height = 400;
+            } else {
+                console.log("Error creating new component", component.errorString());
             }
+        }
 
+        Component.onCompleted: {
+            addNote();
         }
     }
 }
