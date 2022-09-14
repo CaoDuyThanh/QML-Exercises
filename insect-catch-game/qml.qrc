@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Insect.qml</file>
+        <file>fonts/PressStart2P-Regular.ttf</file>
+        <file>roach.png</file>
+        <file>spider.png</file>
+        <file>mosquito.png</file>
+        <file>fly.png</file>
+    </qresource>
+</RCC>

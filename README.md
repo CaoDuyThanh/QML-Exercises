@@ -55,4 +55,4 @@ Notes that the I use link demo of original repo for visualization. Check the fol
 | 47  | [Testimonial Box Switcher](testimonial-box-switcher) | [Live Demo](https://50projects50days.com/projects/testimonial-box-switcher/)      |
 | 48  | [Random Image Feed](random-image-feed) | [Live Demo](https://50projects50days.com/projects/random-image-feed/)             |
 | 49  | [Todo List](todo-list) | [Live Demo](https://50projects50days.com/projects/todo-list/)                     |
-| 50  | [Insect Catch Game] | [Live Demo](https://50projects50days.com/projects/insect-catch-game/)             |
+| 50  | [Insect Catch Game](insect-catch-game) | [Live Demo](https://50projects50days.com/projects/insect-catch-game/)             |
