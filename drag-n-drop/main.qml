@@ -29,35 +29,47 @@ Window {
                 Layout.preferredHeight: 150
                 Layout.preferredWidth: 150
                 border.color: "black"
-                border.width: 3
-                color: dropArea.containsDrag ? "gray" : "white"
+                border.width: dropArea.containsDrag ? 0 : 3
+                color: dropArea.containsDrag ? "#0F0F0F" : "white"
+
+                Canvas{
+                    id: canvas
+                    anchors.fill: parent
+                    visible: dropArea.containsDrag
+
+                    onPaint:{
+                        var ctx = getContext("2d");
+                        ctx.lineWidth = 5;
+                        ctx.strokeStyle = "#FFFFFF";
+                        ctx.setLineDash([2, 2]);
+                        ctx.beginPath();
+                        ctx.moveTo(0, 0);
+                        ctx.lineTo(canvas.width, 0);
+                        ctx.lineTo(canvas.width, canvas.height);
+                        ctx.lineTo(0, canvas.height);
+                        ctx.lineTo(0, 0);
+                        ctx.stroke();
+                     }
+                }
 
                 DropArea {
                     id: dropArea
                     anchors.fill: parent
                 }
             }
-
-            Component.onCompleted: {
-                        //Here all object are instantiated
-                        for (var i = 0; i< repeater.count; i++){
-                            print(repeater.itemAt(0).x);
-                            print(repeater.itemAt(0).y);
-                        }
-                    }
         }
     }
 
 
-
     Image {
+        id: image
         source: "https://source.unsplash.com/random/150x150"
-//        x: repeater.itemAt(0).x
-//        y: repeater.itemAt(0).y
         height: 150
         width: 150
 
         Drag.active: imageDrag.drag.active
+        Drag.hotSpot.x: 0
+        Drag.hotSpot.y: 0
 
         MouseArea {
             id: imageDrag
