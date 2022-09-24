@@ -1,8 +1,10 @@
 # QML Excercises
 
-I make this repository to excercise QML skills and also inspired from this [awesome work](https://github.com/bradtraversy/50projects50days).  This work also is a proof of concept what QML can make and how hard to do it. Hopefully this repo can help you in the way learning QML. The layout and animation is not exactly the same as original and the implementation is not optimized solution (I am lazy :)). Good day!
+I make this repository to excercise QML skills and also inspired from this [awesome work](https://github.com/bradtraversy/50projects50days).  This work also is a proof of concept what QML can make and how hard to do it. Hopefully this repo can help you in the way of learning QML. The layout and animation are not exactly the same as original (95% similar I guess) and the implementation is not optimized solution (I am lazy :)).
 
 Notes that I use link demo of original repo for visualization. I also try to build WebAssembly but it doesn't look as good as app version so check the folder for source of QML.
+
+Good day!
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
